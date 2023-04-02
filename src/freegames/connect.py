@@ -9,6 +9,7 @@ Exercises
 5. How would you detect a winner?
 """
 
+
 from turtle import *
 
 from freegames import line
